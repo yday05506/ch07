@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hashingDivider.c">
+    <ClCompile Include="depthFirstSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
