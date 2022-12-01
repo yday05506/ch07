@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DijkstraShortesPath2.c">
+    <ClCompile Include="RePermutation1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
