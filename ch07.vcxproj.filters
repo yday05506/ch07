@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Combination.c">
+    <ClCompile Include="ReCombination.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
